@@ -1,4 +1,5 @@
-# ScripsWindowses
+# Scrips do Windows
+
 Scrips acessórios do Windows.
 Comando de auxílio do administrado Windows. 
 Fique à vontade em usar e compartilhar. 
@@ -6,6 +7,7 @@ Mas, se puder fazer a gentileza de por os créditos noutro arquivo que for compa
 
 # Captura de Tela da Aplicação.
 
+Será postado assim que for possível.
 
 
 # Permissões de uso:
